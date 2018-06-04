@@ -4,10 +4,10 @@
  - HomePage : http://blog.linmalu.com/
  - Language : JAVA8
  - Spigot : bukkit-1.7.9-R0.2
- - Version : 1.7.9.1
+ - Version : 1.7.9.0
  
  ###업데이트
-- 보스바 버그 수정
+- 버전 및 기능 업데이트
 
 ###소개
 - 플러그인에 이용되는 기능들을 따로 분류한 플러그인입니다.
